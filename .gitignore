@@ -3,4 +3,5 @@
 *.out
 *.fls
 *.pdf
+*.fdb_latexmk
 !proposal\Styles\proposal.pdf
